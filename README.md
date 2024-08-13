@@ -25,13 +25,13 @@
 <br>
 <br>
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`NETHMINA-OFC BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/NethminaOFC/"><img src="https://telegra.ph/file/7dd5b186621993e20b73b.jpg" width=80 height=80></a>   
 
 ---
 
-|**[`Prabath Kumara`](https://github.com/NethminaOFC)**|
+|**[`Bhashitha Nethmina (NethminaOFC)`](https://github.com/NethminaOFC)**|
 
 ---
