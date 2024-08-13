@@ -1,6 +1,6 @@
 <br>
 
-## NethminaOFC WABOT 🧑🏻‍💻 - A Javascript WhatsApp User Bot
+## NethminaOFC WABOT 👨‍💻 - A Javascript WhatsApp User Bot 💻
 
 <br>
 
