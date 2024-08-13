@@ -40,10 +40,13 @@
 
 ## 💝 Thanks For All Helpers
 <br>
+---
+
+## Powered By Nethmina OFC Cmmunity ™ 🎈
+
 <br>
 <br>
-<br>
-<br>
+
 `Released date:- ---------`
 <br>
 `latest updated date:- --------`
