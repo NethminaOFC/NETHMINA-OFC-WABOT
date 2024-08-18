@@ -6,7 +6,7 @@
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name nethmina-ofc-wabot",
 "stop": "pm2 stop nethmina-ofc-wabot",
-"restart": "pm2 nethmina-ofc-wabot"
+"restart": "pm2 restart nethmina-ofc-wabot"
 },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
