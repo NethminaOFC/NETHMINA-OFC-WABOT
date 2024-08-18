@@ -47,4 +47,5 @@ ALIVE_MSG: process.env.ALIVE_MSG || "*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅�
 
 > ♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
 > ˡᶦᵏᵉ        ᶜᵒᵐᵐᵉⁿᵗ       ˢᵃᵛᵉ      ˢʰᵃʳᵉ",
+AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 };
