@@ -22,11 +22,11 @@ let desc = `
 ┌───────────────────
 ├ *ℹ️ Title:* ${data.title}
 ├ *📚 channel:* ${data.author.name}
-├ *🔗 Url:* ${data.url}
 ├ *👁️‍🗨️ Views:* ${data.views}
 ├ *🕘 Duration:* ${data.timestamp}
 ├ *📆 Published:* ${data.ago}
 ├ *📥 Size:* ${data.size}
+├ *🔗 Url:* ${data.url}
 └───────────────────
 
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴍɪɴᴀ ᴏꜰᴄ ||*
@@ -71,10 +71,11 @@ let desc = `
 
 ┌───────────────────
 ├ *ℹ️ Title:* ${data.title}
-├ *👤 Author:* ${data.auther}
+├ *📚 channel:* ${data.author.name}
 ├ *👁️‍🗨️ Views:* ${data.views}
 ├ *🕘 Duration:* ${data.timestamp}
-├ *📌 Ago:* ${data.ago}
+├ *📆 Published:* ${data.ago}
+├ *📥 Size:* ${data.size}
 ├ *🔗 Url:* ${data.url}
 └───────────────────
 
