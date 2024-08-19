@@ -1,13 +1,13 @@
 {
-"name": "NETHMINA-OFC-WABOT",
-"version": "1.0.0",
-"description": "NETHMINA-OFC-WABOT has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-"main": "start.js",
-"scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name nethmina-ofc-wabot",
-"stop": "pm2 stop nethmina-ofc-wabot",
-"restart": "pm2 restart nethmina-ofc-wabot"
-},
+  "name": "NETHMINA-OFC-WABOT",
+  "version": "1.0.0",
+  "description": "NETHMINA-OFC-WABOT has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --deep-monitoring --attach --name NETHMINA-OFC-WABOT",
+    "stop": "pm2 stop wabot",
+    "restart": "pm2 restart wabot"
+  },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -23,7 +23,7 @@
     "megajs": "^1.1.0",
     "vm": "^0.1.0",
     "qrcode-terminal": "^0.12.0",
-    "yt-search":"2.11.1",
-    "api-dylux":"1.8.5"
+    "yt-search": "2.11.1",
+    "api-dylux": "1.8.5"
   }
 }
