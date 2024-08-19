@@ -81,7 +81,7 @@ let desc = `
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴍɪɴᴀ ᴏꜰᴄ ||*
 `
 
-await conn.sendMessage(from,{image:{url: data.tumbnail},caption:desc},{quoted:mek});
+await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
 
 //download video
 
