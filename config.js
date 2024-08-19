@@ -12,19 +12,6 @@ ALIVE_MSG: process.env.ALIVE_MSG || "*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅�
 *Hᴇʟʟᴏ....* @name👋
 *I'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♂💗*
 
-@gname @members Number of Members
-
-*⏰ Now time is* @time
-*📅 Date :* @date
-
-*🟢 I am online still* @uptime
-*🔄 Response Delay :* @ping Ms
-*💻 Host :* @host
-*🪢 Version :* @version
-
-*☫ Work Mode :* @mode
-*☫ Work Type :* @worktype
-
 ┌───────────────────────
 
 `CONTACT NO` - https://wa.me/+94776369728?text=Hi
@@ -48,4 +35,5 @@ ALIVE_MSG: process.env.ALIVE_MSG || "*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅�
 > ♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
 > ˡᶦᵏᵉ        ᶜᵒᵐᵐᵉⁿᵗ       ˢᵃᵛᵉ      ˢʰᵃʳᵉ",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
+MODE: process.env.MODE || "public",
 };
