@@ -11,7 +11,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply("Please give me song name or url")
+if(!q) return reply("*Please give me song name or url ⁉️*")
 const search = await yts(q)
 const data = search.videos[0];
 const url = data.url
@@ -51,7 +51,7 @@ reply(`${e}`)
 }
 })
 
-//==========video-dl==========
+//==============================video-dl======================================
 
 cmd({
     pattern: "video",
@@ -61,7 +61,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply("Please give me song name or url")
+if(!q) return reply("*Please give me video name or url ⁉️*")
 const search = await yts(q)
 const data = search.videos[0];
 const url = data.url
