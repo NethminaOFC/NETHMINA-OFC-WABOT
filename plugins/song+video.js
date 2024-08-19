@@ -21,11 +21,12 @@ let desc = `
 
 ┌───────────────────
 ├ *ℹ️ Title:* ${data.title}
-├ *👤 Author:* ${data.auther}
+├ *📚 channel:* ${data.author.name}
+├ *🔗 Url:* ${data.url}
 ├ *👁️‍🗨️ Views:* ${data.views}
 ├ *🕘 Duration:* ${data.timestamp}
-├ *📌 Ago:* ${data.ago}
-├ *🔗 Url:* ${data.url}
+├ *📆 Published:* ${data.ago}
+├ *📥 Size:* ${data.size}
 └───────────────────
 
 > *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴍɪɴᴀ ᴏꜰᴄ ||*
