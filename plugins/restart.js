@@ -10,9 +10,9 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!isowner) return
+if(!isOwner) return
 const {exec} = require("child_process")
-reply("restarting bot... 🔄")
+reply("*restarting bot... 🔄*")
 await sleep(1500)
 exec("pm2 restart all")
 }catch(e){
