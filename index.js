@@ -141,9 +141,9 @@ m.react("🧑🏻‍💻")
 }
 //===============================================================================================
 //======================WORK-TYPE====================================================== 
-if(!isowner && config.MODE === "private") return
-if(!isowner && isgroup && config.MODE === "inbox") return
-if(!isowner && !isgroup && config.MODE === "groups") return
+if(!isOwner && config.MODE === "private") return
+if(!isOwner && isGroup && config.MODE === "inbox") return
+if(!isOwner && !isGroup && config.MODE === "groups") return
 //============================================================================
 
 
