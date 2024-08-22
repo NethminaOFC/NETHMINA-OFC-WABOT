@@ -24,7 +24,12 @@ menu[commands[i].category] += `.${commands[i].pattern}\n`;
  }
 }
 
-let madeMenu = ``
+let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓*
+
+*Hᴇʟʟᴏ.... ${pushname}👋*
+*I'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♂💗*
+
+`
 
 }catch(e){
 console.log(e)
