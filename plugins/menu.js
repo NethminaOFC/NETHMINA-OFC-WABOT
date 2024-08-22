@@ -1,5 +1,6 @@
 const config = require('../config')
 const {cmd , commands} = require('../command')
+const {runtime} = require('../lib/functions')
 
 cmd({
     pattern: "menu",
