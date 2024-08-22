@@ -36,3 +36,4 @@ await conn.sendMessage(from,{text:madeMenu},{quoted:mek})
 console.log(e)
 reply(`${e}`)
 }
+})
