@@ -218,7 +218,7 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 
 > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɴᴇᴛʜᴍɪɴᴀ ᴏꜰᴄ ||
 `
-await conn.sendMessage(from,{text:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image:{url:"https://telegra.ph/file/c937db53255955323ea7a.jpg"}},{quoted:mek})
 
 }catch(e){
 console.log(e)
