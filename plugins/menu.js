@@ -30,6 +30,7 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 *I'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♂💗*
 
 `
+await conn.sendMessage(from,{text:madeMenu},{quoted:mek})
 
 }catch(e){
 console.log(e)
