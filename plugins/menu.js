@@ -36,7 +36,7 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 │◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 - ${runtime(process.uptime())}
 ╰──────────●●►
 ╭──────────●●►
-│*📜 MAIN COMMANDS*
+│ *📜 MAIN COMMANDS*
 │   ───────
 │► .tempmail2
 │► .bingen
@@ -69,7 +69,7 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 │► .requestpair
 ╰───────────●●►
 ╭───────────●●►
-│*⬇️ DOWNLOAD COMMANDS*
+│ *⬇️ DOWNLOAD COMMANDS*
 │   ───────
 │► .downurl
 │► .movie
@@ -97,7 +97,7 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 │► .xvdl
 ╰───────────●●►
 ╭───────────●●►
-│*🔱 GROUP COMMANDS*
+│ *🔱 GROUP COMMANDS*
 │   ───────
 │► .gdp
 │► .automute
@@ -119,7 +119,7 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 │► .del
 ╰───────────●●►
 ╭───────────●●►
-│*👨‍💻 OWNER COMMANDS*
+│ *👨‍💻 OWNER COMMANDS*
 │   ───────
 │► .removesticker
 │► .resetsticker
@@ -157,7 +157,7 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 │► .send
 ╰───────────●●►
 ╭───────────●●►
-│*🔗 CONVERT COMMANDS*
+│ *🔗 CONVERT COMMANDS*
 │   ───────
 │► .mp3tourl
 │► .dark
@@ -181,7 +181,7 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 │► .emomix
 ╰───────────●●►
 ╭───────────●●►
-│*🤖 AI COMMANDS*
+│ *🤖 AI COMMANDS*
 │   ───────
 │► .gemini
 │► .imagine
@@ -190,14 +190,14 @@ let madeMenu = `*𝐍𝐄𝐓𝐇𝐌𝐈𝐍𝐀 𝐎𝐅𝐂 𝐖𝐇𝐀𝐓�
 │► .gpt
 ╰───────────●●►
 ╭───────────●●►
-│*🫧 MATH COMMANDS*
+│ *🫧 MATH COMMANDS*
 │   ───────
 │► .mathstep
 │► .math
 │► .cal
 ╰───────────●●►
 ╭───────────●●►
-│*🔍SEARCH COMMANDS*
+│ *🔍SEARCH COMMANDS*
 │   ───────
 │► .findtiktok
 │► .findapk
